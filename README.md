@@ -1,0 +1,1 @@
+In this assignment from the odin project, i will create a simple rock paper scrissors program in javascript
